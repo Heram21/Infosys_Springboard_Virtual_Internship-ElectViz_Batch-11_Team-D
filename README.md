@@ -1,10 +1,10 @@
 ## ElectViz: Election Data Visualization for Media
 
 ## Overview:
-"ElectViz" is a data visualization project designed to help media organizations and analysts understand United States election data beyond the traditional “horse race” narrative.  
-The project focuses on explaining "why" outcomes change, not just "who" wins, by transforming complex historical election data into clear, interactive, and journalist-friendly dashboards.
+“ElectViz” is a comprehensive data visualization project developed to help media organizations, political analysts, and researchers explore United States election data beyond the traditional “horse race” narrative that focuses only on winners and seat counts. Instead of limiting analysis to surface-level results, the project emphasizes deeper insights by examining voting patterns, party performance shifts, regional trends, demographic influences, and historical comparisons. By converting large volumes of complex election data into structured and interactive Power BI dashboards, ElectViz enables users to move from raw numbers to meaningful interpretation.
 
-ElectViz bridges the gap between raw election statistics and real-world voter behavior, making democratic processes more accessible and interpretable.
+The core objective of ElectViz is to answer the “why” behind electoral outcomes — why certain regions shift party preference, why vote margins change over time, and why specific political trends emerge. Through intuitive visualizations such as maps, trend charts, vote share comparisons, and margin analysis, the project makes election data more transparent, accessible, and journalist-friendly. Ultimately, ElectViz bridges the gap between raw statistical data and real-world voter behavior, empowering stakeholders to understand democratic processes in a more informed and data-driven manner.
+
 
 ## Project Files:
 - Raw Dataset:<br>
