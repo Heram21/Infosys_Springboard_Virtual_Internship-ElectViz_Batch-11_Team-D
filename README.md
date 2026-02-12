@@ -78,8 +78,7 @@ ElectViz transforms complex and large-scale election data into meaningful visual
 
 By providing clarity during chaotic election cycles, the project empowers journalists, analysts, researchers, and the general public to make informed interpretations of democratic outcomes. ElectViz not only enhances transparency but also demonstrates how Business Intelligence tools like Power BI can convert data into actionable insights. Ultimately, the project highlights the importance of data-driven analysis in strengthening awareness and understanding of democratic processes.
 
-
-> “In a democracy, data is the heartbeat. ElectViz makes sure everyone can hear it clearly.”
+“In a democracy, data is the heartbeat. ElectViz makes sure everyone can hear it clearly.”
 
 ## Contributors:
 - Neelapu Herambudu  
