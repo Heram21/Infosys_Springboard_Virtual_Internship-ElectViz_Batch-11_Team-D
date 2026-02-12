@@ -7,20 +7,18 @@ The project focuses on explaining "why" outcomes change, not just "who" wins, by
 ElectViz bridges the gap between raw election statistics and real-world voter behavior, making democratic processes more accessible and interpretable.
 
 ## Project Files:
-- Primary Development File  
-  Power BI project file containing the complete data model, dashboards, and interactive reports.
+- Raw Dataset:
+  Historical U.S. House election data (CSV format)
+  Processed using Power Query
+  Standardized state and party names
 
-- Cleaned Source Dataset  
-  Historical US Election dataset (1976–2022) after preprocessing and validation.
+- Power BI File (.pbix):
+  Contains data model, DAX measures, and dashboards
 
-- Power Query Logic  
-  ETL transformations used to clean, normalize, and structure raw election data.
-
-- DAX Measure Repository  
-  Custom DAX measures for metrics such as:
-  - Weighted Vote Share %
-  - Seats Won by Party
-  - Participation trends and thresholds
+- Documentation:
+  Project report
+  Dashboard explanation
+  PPT for final submission
 
 ## Key Features:
 - Multivariate Trend Analysis
