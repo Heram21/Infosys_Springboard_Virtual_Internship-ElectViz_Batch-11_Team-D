@@ -7,18 +7,21 @@ The core objective of ElectViz is to answer the “why” behind electoral outco
 
 
 ## Project Files:
-- Raw Dataset:<br>
-  Historical U.S. House election data (CSV format)<br>
-  Processed using Power Query<br>
-  Standardized state and party names<br>
+- ElectViz_Dashboard.pbix <br>
+  Power BI dashboard file containing the complete election data visualization project.
+  Includes data modeling, preprocessing steps, DAX measures, and interactive reports.
 
-- Power BI File (.pbix):<br>
-  Contains data model, DAX measures, and dashboards
+- ElectViz_team.pptx<br>
+  Team presentation summarizing the ElectViz project workflow and outcomes.
+  Covers introduction, system design, dashboard insights, and conclusions.
 
-- Documentation:<br>
-  Project report<br>
-  Dashboard explanation<br>
-  PPT for final submission
+- Electviz_report.docx<br>
+  Detailed project documentation explaining objectives, methodology, and results.
+  Includes problem statement, preprocessing steps, analysis, and future enhancements.
+  
+- US-Elections_dataset.csv
+  Raw dataset containing United States election-related data used for analysis.
+  Serves as the primary data source for preprocessing and dashboard creation.
 
 ## Key Features:
 - Multivariate Trend Analysis
