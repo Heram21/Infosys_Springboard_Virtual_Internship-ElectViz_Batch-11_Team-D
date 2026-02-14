@@ -19,7 +19,7 @@ The core objective of ElectViz is to answer the “why” behind electoral outco
   Detailed project documentation explaining objectives, methodology, and results.
   Includes problem statement, preprocessing steps, analysis, and future enhancements.
   
-- US-Elections_dataset.csv
+- US-Elections_dataset.csv<br>
   Raw dataset containing United States election-related data used for analysis.
   Serves as the primary data source for preprocessing and dashboard creation.
 
